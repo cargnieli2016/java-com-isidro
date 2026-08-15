@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Java Learning Journey
 
 <p align="center">
@@ -30,6 +31,28 @@ Meu objetivo aqui é continuar evoluindo como estudante de programação, pratic
 - uso de condicionais e estruturas de decisão
 - resolução de desafios de lógica
 - estudo da linguagem em um ambiente prático
+=======
+# Java Studies & Exercises
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-17%2B-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Status-Estudos%20em%20andamento-28A745?style=for-the-badge" alt="Status" />
+</p>
+
+Bem-vindo ao meu repositório de estudos em Java! Aqui estão alguns exercícios, testes e pequenas práticas de lógica e programação desenvolvidas em Java, com foco em:
+
+- entrada e saída de dados
+- variáveis e operadores
+- condicionais (`if`, `switch`)
+- leitura de dados com `Scanner`
+- resolução de desafios de programação
+
+---
+
+## 🚀 Objetivo
+
+Este repositório foi criado para registrar minha evolução na linguagem Java, praticar algoritmos e melhorar a lógica de programação com exercícios simples e desafios do cotidiano.
+>>>>>>> a5d47021bc3cbe9d909882e3798341471984eba8
 
 ---
 
@@ -41,7 +64,10 @@ Java/
 ├── BEE1006.java
 ├── BEE1018.java
 ├── BEE1035.java
+<<<<<<< HEAD
 ├── BEE1037.java
+=======
+>>>>>>> a5d47021bc3cbe9d909882e3798341471984eba8
 ├── BEE1038.java
 ├── BEE1038V2.java
 ├── Continhas.java
@@ -50,12 +76,17 @@ Java/
 ├── LeituraTexto.java
 ├── TesteIf.java
 ├── TesteStatus.java
+<<<<<<< HEAD
 ├── README.md
 └── .git/
+=======
+└── README.md
+>>>>>>> a5d47021bc3cbe9d909882e3798341471984eba8
 ```
 
 ---
 
+<<<<<<< HEAD
 ## 🧠 Exercícios incluídos
 
 - `BEE1001.java` — soma e leitura de dados
@@ -66,12 +97,26 @@ Java/
 - `TesteIf.java` — estudo de condicionais
 - `Leitura.java` e `LeituraTexto.java` — leitura com `Scanner`
 - `Continhas.java` — operações matemáticas e prática geral
+=======
+## 🧠 Exemplos de exercícios incluídos
+
+- `BEE1001.java` — soma simples
+- `BEE1038.java` — cálculo de lanche
+- `TesteStatus.java` — uso de `switch` para status de pedido
+- `TesteIf.java` — estudo de condicionais
+- `Leitura.java` e `LeituraTexto.java` — leitura de dados via teclado
+- `Continhas.java` — exercícios de operações matemáticas
+>>>>>>> a5d47021bc3cbe9d909882e3798341471984eba8
 
 ---
 
 ## ▶️ Como executar
 
+<<<<<<< HEAD
 1. Abra o terminal no diretório do projeto.
+=======
+1. Abra o terminal no diretório do projeto
+>>>>>>> a5d47021bc3cbe9d909882e3798341471984eba8
 2. Compile o arquivo Java desejado:
 
 ```bash
@@ -93,6 +138,7 @@ java TesteStatus
 
 ---
 
+<<<<<<< HEAD
 ## 🛠️ Tecnologias e ferramentas
 
 - Java
@@ -124,5 +170,31 @@ Os próximos passos incluem:
 <p align="center">
   <i>“Aprender programação é praticar, errar, corrigir e evoluir.”</i>
 </p>
+=======
+## 🛠️ Tecnologias usadas
+
+- Java
+- VS Code
+- Terminal / prompt de comandos
+
+---
+
+## 📌 Observações
+
+Este projeto é uma coleção de exercícios de estudo e aprendizado pessoal. A ideia é continuar evoluindo, adicionando novos desafios e refinando a lógica de programação ao longo do tempo.
+
+Além disso, estou usando inteligência artificial como apoio para acelerar meu aprendizado, esclarecer dúvidas, revisar conceitos e melhorar minha compreensão da linguagem Java de forma mais prática e eficiente.
+
+---
+
+## ⭐ Futuramente
+
+- adicionar mais exercícios
+- incluir desafios mais avançados
+- organizar melhor os arquivos por categoria
+- criar projetos prontos com Java
+
+---
+>>>>>>> a5d47021bc3cbe9d909882e3798341471984eba8
 
 
