@@ -102,10 +102,4 @@ Além disso, estou usando inteligência artificial como apoio para acelerar meu 
 
 ---
 
-Se quiser, posso também criar uma versão mais sofisticada do README com:
 
-- badges personalizadas
-- seções de "Sobre mim"
-- emojis mais modernos
-- um layout estilo portfolio para GitHub
-- e até um README em inglês.
